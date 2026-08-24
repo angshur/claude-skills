@@ -17,3 +17,4 @@ Then invoke it in Claude Code as `/vc-radar`.
 | Skill | Command | Description |
 |-------|---------|-------------|
 | [vc-radar](vc-radar.md) | `/vc-radar` | Track VC & angel investor signals. Surfaces emerging startup opportunities before consensus. Supports quick scan, full sweep, focused deep-dives, and persistent logging. |
+| [tech-radar](tech-radar.md) | `/tech-radar` | ThoughtWorks-style Adopt/Trial/Assess/Hold radar for AI infra (agent frameworks, inference serving, context/data infra, AgentOps). Read against actual studio builds. Persistent logging + optional HTML visual. |
